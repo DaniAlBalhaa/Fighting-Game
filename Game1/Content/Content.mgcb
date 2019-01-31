@@ -85,7 +85,7 @@
 /processorParam:TextureFormat=Color
 /build:Fighting/Fighting_Game/Zombie.png
 
-#begin Fighting/Fighting_Game/ranger.png
+#begin Fighting/Fighting_Game/ship.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -95,5 +95,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:Fighting/Fighting_Game/ranger.png
+/build:Fighting/Fighting_Game/ship.png
 

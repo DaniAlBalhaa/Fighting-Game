@@ -4,11 +4,12 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Bleeding Eye.png</File>
-    <File>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Bloody Arm.png</File>
-    <File>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Bloody Mouth.png</File>
-    <File>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Brain.png</File>
-    <File>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Ribs.png</File>
-    <File>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Zombie.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Bleeding Eye.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Bloody Arm.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Bloody Mouth.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Brain.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Ribs.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Zombie.png</File>
+    <File>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/ship.png</File>
   </SourceFiles>
 </SourceFileCollection>

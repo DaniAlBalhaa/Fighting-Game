@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/elev/source/repos/Game1/Game1/Content/Fighting/Fighting_Game/Ribs.png</SourceFile>
+  <SourceFile>C:/Users/elev/Desktop/Game1/Game1/Content/Fighting/Fighting_Game/Ribs.png</SourceFile>
   <SourceTime>2018-11-27T13:00:49.4567626+01:00</SourceTime>
-  <DestFile>C:/Users/elev/source/repos/Game1/Game1/Content/bin/Windows/Fighting/Fighting_Game/Ribs.xnb</DestFile>
-  <DestTime>2018-11-27T13:31:33.729216+01:00</DestTime>
+  <DestFile>C:/Users/elev/Desktop/Game1/Game1/Content/bin/Windows/Fighting/Fighting_Game/Ribs.xnb</DestFile>
+  <DestTime>2019-01-30T12:31:48.5995525+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
